@@ -1,5 +1,7 @@
 # Pattern
 
+## Roadmap
+
 [ ] Two Pointer
     [ ] General Approach
     [ ] Two pointer with OPPOSITE direction
@@ -29,3 +31,6 @@
         [ ] Template Recursive DFS
     [ ] BFS
         [ ] Template Iterative BFS
+
+## Important Article on Leetcode
+https://leetcode.com/discuss/general-discussion/665604/Important-and-Useful-links-from-all-over-the-Leetcode

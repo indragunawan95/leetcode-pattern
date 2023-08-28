@@ -17,3 +17,4 @@ Here is my practical guide to solving DP problems.
 
 To me, the practice of 2.1 and understanding of 4 were the tipping point. After that, DP became really easy for me and a weapon to solve many problems, that even have other solutions (usually greedy, which is harder to come up with)
 
+## Recurrence Relation
